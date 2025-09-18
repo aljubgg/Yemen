@@ -1,2 +1,0 @@
-# Yemen
-Bot report
